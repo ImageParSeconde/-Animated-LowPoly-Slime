@@ -1,1 +1,1 @@
-# GodotAsset
+# [Animated] LowPoly Slime
